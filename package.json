@@ -10,7 +10,8 @@
     "eslint-plugin-react": "^6.10.3",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
-    "react-tap-event-plugin": "^2.0.1"
+    "react-tap-event-plugin": "^2.0.1",
+    "react-test-renderer": "^15.5.4"
   },
   "devDependencies": {
     "flow-bin": "^0.44.2",
